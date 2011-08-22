@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.summary     = "KISSmetrics ruby API gem"
   s.description = "KISSmetrics ruby API gem"
 
-  s.required_rubygems_version = ">= 1.3.6"
+  s.required_rubygems_version = ">= 1.3.5"
   s.rubyforge_project         = "kissmetrics"
 
   s.add_development_dependency "bundler", ">= 1.0.0"
